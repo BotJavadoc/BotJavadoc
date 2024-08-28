@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek G</h1>
 <h3 align="left">An accomplished Java Full Stack Developer with deep expertise in Spring, Hibernate, JSP, Servlets, and Java. Demonstrated proficiency in crafting dynamic and scalable web applications using Spring Boot and MVC architecture. Adept at utilizing JavaScript, CSS, and HTML to create engaging and responsive user interfaces. Skilled in leveraging MySQL for robust database management. Passionate about leveraging cutting-edge technologies to deliver high-performance, user-centric solutions that drive business success.</h3>
-<p><img align="right" alt="Coding" width="200" src="https://octodex.github.com/images/NUX_Octodex.gif"></p>
+<p><img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Git gif" width="300" height="100"></p>
 
 - 🌱 I’m currently learning **Spring boot, Node JS, reactJs, ExpressJs, Spring MVC, java script**
 
