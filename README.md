@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek G</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Git gif" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Git gif" width="600" height="600">
 <h3 align="center">An accomplished Java Full Stack Developer with deep expertise in Spring, Hibernate, JSP, Servlets, and Java. Demonstrated proficiency in crafting dynamic and scalable web applications using Spring Boot and MVC architecture. Adept at utilizing JavaScript, CSS, and HTML to create engaging and responsive user interfaces. Skilled in leveraging MySQL for robust database management. Passionate about leveraging cutting-edge technologies to deliver high-performance, user-centric solutions that drive business success.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botjavadoc" alt="botjavadoc" /></a> </p>
