@@ -85,14 +85,14 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=botjavadoc&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" alt="Git gif" width="300" height="300"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botjavadoc&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" alt="Git gif" width="300" height="300"/>
 </p>
